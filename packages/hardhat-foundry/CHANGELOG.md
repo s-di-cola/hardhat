@@ -1,5 +1,13 @@
 # @nomicfoundation/hardhat-foundry
 
+## 1.1.3
+
+### Patch Changes
+
+- 7a383c9: Replace chalk with picocolor
+- Updated dependencies [fcece65]
+  - hardhat@2.22.16
+
 ## 1.1.2
 
 ### Patch Changes

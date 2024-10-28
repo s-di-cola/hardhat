@@ -1,5 +1,13 @@
 # @nomicfoundation/hardhat-viem
 
+## 2.0.6
+
+### Patch Changes
+
+- 90bcfda: Remove unnecessary peerDependency
+- Updated dependencies [fcece65]
+  - hardhat@2.22.16
+
 ## 2.0.5
 
 ### Patch Changes
